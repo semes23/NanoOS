@@ -6,7 +6,7 @@ A two-phase C++ simulation of a multiprogramming operating system + embedded C e
 
 **Main Project**: Multiprogramming OS simulation in C++  
 **Additional**: Embedded C programming examples  
-**Duration**: 4 months (Jan-May 2024)  
+**Duration**: 4 months 
 **Purpose**: Foundation for embedded systems career
 
 ## Contents
