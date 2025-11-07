@@ -1,0 +1,20 @@
+
+# Compiled executables
+*.exe
+*.out
+ph1
+ph2
+memory_manager
+task_scheduler
+bit_manipulation
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~

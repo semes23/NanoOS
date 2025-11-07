@@ -1,0 +1,54 @@
+ERROR : Invalid page fault
+JobID : 202 IC : 2 IR : PD20 SI : 0 PI : 3 TI : 0 TTC : 3 LLC : 0 TTL : 25 TLL : 4 
+
+
+
+*
+ERROR : Invalid page fault
+JobID : 302 IC : 3 IR : LR31 SI : 0 PI : 3 TI : 0 TTC : 5 LLC : 0 TTL : 10 TLL : 2 
+
+
+
+ERROR : Invalid page fault
+JobID : 102 IC : 2 IR : LR36 SI : 0 PI : 3 TI : 0 TTC : 3 LLC : 0 TTL : 7 TLL : 2 
+
+
+
+ERROR : Invalid page fault
+JobID : 401 IC : 2 IR : PD20 SI : 0 PI : 3 TI : 0 TTC : 3 LLC : 0 TTL : 9 TLL : 4 
+
+
+
+ABCD
+ERROR : Invalid page fault
+JobID : 1503 IC : 3 IR : LR30 SI : 0 PI : 3 TI : 0 TTC : 5 LLC : 0 TTL : 20 TLL : 10 
+
+
+
+ERROR : Invalid page fault
+JobID : 1403 IC : 2 IR : LR33 SI : 0 PI : 3 TI : 0 TTC : 3 LLC : 0 TTL : 50 TLL : 8 
+
+
+
+ERROR : Out of Data error
+JobID : 1403 IC : 1 IR : GD30 SI : 1 PI : 0 TI : 0 TTC : 2 LLC : 0 TTL : 50 TLL : 8 
+
+
+
+ERROR : Invalid page fault
+JobID : 402 IC : 2 IR : PD30 SI : 0 PI : 3 TI : 0 TTC : 3 LLC : 0 TTL : 4 TLL : 2 
+
+
+
+SHE SELLS   SEA SHELLS ON
+ERROR : Invalid page fault
+JobID : 403 IC : 2 IR : PD30 SI : 0 PI : 3 TI : 0 TTC : 3 LLC : 0 TTL : 4 TLL : 2 
+
+
+
+SHE SELLS   SEA SHELLS ON
+ERROR : Time limit exceeded
+JobID : 405 IC : 2 IR : PD30 SI : 0 PI : 3 TI : 2 TTC : 3 LLC : 0 TTL : 3 TLL : 2 
+
+
+
